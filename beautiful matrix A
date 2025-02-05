@@ -10,8 +10,8 @@ public class BeautifulMatrix {
             for (int j = 0; j < 5; j++) {
                 int value = scanner.nextInt();
                 if (value == 1) {
-                    oneRow = i + 1; // Store in 1-based index
-                    oneCol = j + 1; // Store in 1-based index
+                    oneRow = i + 1; 
+                    oneCol = j + 1; 
                 }
             }
         }
