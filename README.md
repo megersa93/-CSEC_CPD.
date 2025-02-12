@@ -1,1 +1,1 @@
-This is a solution of codeforce problem.
+These are a solution of codeforce problem.
